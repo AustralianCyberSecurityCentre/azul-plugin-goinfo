@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/AustralianCyberSecurityCentre/azul-bedrock/v9/gosrc/plugin"
+	"github.com/AustralianCyberSecurityCentre/azul-bedrock/v10/gosrc/plugin"
 )
 
 func baseRunTest(t *testing.T, sha256 string, fileDescription string, expectedResult *plugin.TestJobResult) {
