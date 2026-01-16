@@ -5,7 +5,7 @@ go 1.25.0
 toolchain go1.25.1
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v10 v10.0.2
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v10 v10.0.10
 	github.com/goretk/gore v0.13.16
 )
 
