@@ -5,7 +5,7 @@ go 1.26.0
 toolchain go1.26.1
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v10 v10.0.44
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.2
 	github.com/goretk/gore v0.13.25
 )
 
@@ -44,4 +44,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-// replace github.com/AustralianCyberSecurityCentre/azul-bedrock/v10 v8.0.19 => ../../azul-core/azul-bedrock
+// replace github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v8.0.19 => ../../azul-core/azul-bedrock
