@@ -5,8 +5,8 @@ go 1.26.0
 toolchain go1.26.2
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.90
-	github.com/goretk/gore v0.13.27
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.98
+	github.com/goretk/gore v0.13.28
 )
 
 require (
