@@ -1,5 +1,5 @@
-github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.117 h1:Pqe136v6eAY0vZu8KbWYTYDdNA7G8IYfHEG/02jS3cU=
-github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.117/go.mod h1:SKWbO4KEvT+1I+Cj5v3vLhEQpSeTSYiKmipfDCXqa+k=
+github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.124 h1:oHVv5VsPrtpt29vzGHDpWQbO43JPbshNfEsNM4uD5AI=
+github.com/AustralianCyberSecurityCentre/azul-bedrock/v11 v11.0.124/go.mod h1:8xR6pyrCc+AUSwDHdLw/S2mtuzepXa82nlwSidzsG4w=
 github.com/Azure/azure-sdk-for-go/sdk/azcore v1.21.1 h1:jHb/wfvRikGdxMXYV3QG/SzUOPYN9KEUUuC0Yd0/vC0=
 github.com/Azure/azure-sdk-for-go/sdk/azcore v1.21.1/go.mod h1:pzBXCYn05zvYIrwLgtK8Ap8QcjRg+0i76tMQdWN6wOk=
 github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.13.1 h1:Hk5QBxZQC1jb2Fwj6mpzme37xbCDdNTxU7O9eb5+LB4=
@@ -31,8 +31,8 @@ github.com/golang-jwt/jwt/v5 v5.3.1/go.mod h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArs
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/goretk/gore v0.13.28 h1:M++qlN+MQ6V1GR9N+frcMNeuwODlir47QVEqDetj8N8=
-github.com/goretk/gore v0.13.28/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
+github.com/goretk/gore v0.13.29 h1:mbrnbZdil3xEEsnIrqnKJEm9tV6r4qcVZsFggTX0FZ4=
+github.com/goretk/gore v0.13.29/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
 github.com/hamba/avro/v2 v2.31.0 h1:wv3nmua7lCEIwWsb6vqsTS3pXktTxcKg5eoyNu0VhrU=
 github.com/hamba/avro/v2 v2.31.0/go.mod h1:t6lJYAGE5Mswfn17zjtyQsssRQgnqO6TXLBCHHWRqrw=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
