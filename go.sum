@@ -31,8 +31,8 @@ github.com/golang-jwt/jwt/v5 v5.3.1/go.mod h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArs
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/goretk/gore v0.13.29 h1:mbrnbZdil3xEEsnIrqnKJEm9tV6r4qcVZsFggTX0FZ4=
-github.com/goretk/gore v0.13.29/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
+github.com/goretk/gore v0.14.1 h1:1LBL32f1c/og0S2eYKV3jjwgXmoXZ6ZH7nUIyTL+jG8=
+github.com/goretk/gore v0.14.1/go.mod h1:fY2H5elLdsey9sJKUDhA+QNWfG7VyU2qcVyCShOK9ac=
 github.com/hamba/avro/v2 v2.31.0 h1:wv3nmua7lCEIwWsb6vqsTS3pXktTxcKg5eoyNu0VhrU=
 github.com/hamba/avro/v2 v2.31.0/go.mod h1:t6lJYAGE5Mswfn17zjtyQsssRQgnqO6TXLBCHHWRqrw=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
