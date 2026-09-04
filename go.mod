@@ -5,7 +5,7 @@ go 1.26.1
 toolchain go1.26.2
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v12 v12.0.107
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.6
 	github.com/goretk/gore v0.14.4
 )
 
@@ -35,7 +35,8 @@ require (
 	github.com/rs/zerolog v1.35.1 // indirect
 	github.com/sanity-io/litter v1.5.8 // indirect
 	github.com/stretchr/objx v0.5.3 // indirect
-	github.com/stretchr/testify v1.12.0 // indirect
+	github.com/stretchr/testify v1.12.1 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/arch v0.24.0 // indirect
 	golang.org/x/net v0.58.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
