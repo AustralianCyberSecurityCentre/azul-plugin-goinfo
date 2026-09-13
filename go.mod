@@ -5,12 +5,12 @@ go 1.26.1
 toolchain go1.26.2
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.8
-	github.com/goretk/gore v0.14.4
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.15
+	github.com/goretk/gore v0.14.5
 )
 
 require (
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.23.0 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.23.1 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.12.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.8.0 // indirect
 	github.com/blacktop/go-dwarf v1.0.14 // indirect
