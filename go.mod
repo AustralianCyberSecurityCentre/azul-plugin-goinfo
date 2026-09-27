@@ -1,11 +1,11 @@
 module github.com/AustralianCyberSecurityCentre/azul-plugin-goinfo.git
 
-go 1.26.1
+go 1.27.0
 
-toolchain go1.26.2
+toolchain go1.27.1
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.26
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.28
 	github.com/goretk/gore v0.14.5
 )
 
