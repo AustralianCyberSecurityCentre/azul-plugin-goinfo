@@ -1,12 +1,12 @@
 module github.com/AustralianCyberSecurityCentre/azul-plugin-goinfo.git
 
-go 1.27.0
+go 1.27.3
 
-toolchain go1.27.1
+// toolchain go1.27.3
 
 require (
-	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.66
-	github.com/goretk/gore v0.14.6
+	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.72
+	github.com/goretk/gore v0.14.7
 )
 
 require (
@@ -16,8 +16,8 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/internal v0.1.0 // indirect
 	github.com/apache/arrow-go/v18 v18.8.0 // indirect
 	github.com/blacktop/go-dwarf v1.0.14 // indirect
-	github.com/blacktop/go-macho v1.1.294 // indirect
-	github.com/eliben/watgo v0.8.0 // indirect
+	github.com/blacktop/go-macho v1.1.295 // indirect
+	github.com/eliben/watgo v0.9.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/goccy/go-json v0.11.2 // indirect
@@ -25,11 +25,11 @@ require (
 	github.com/hamba/avro/v2 v2.31.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.20.3 // indirect
-	github.com/klauspost/cpuid/v2 v2.4.0 // indirect
+	github.com/klauspost/cpuid/v2 v2.4.1 // indirect
 	github.com/knadh/koanf/maps v0.1.3 // indirect
 	github.com/knadh/koanf/providers/env/v2 v2.0.2 // indirect
 	github.com/knadh/koanf/providers/structs v1.0.1 // indirect
-	github.com/knadh/koanf/v2 v2.3.8 // indirect
+	github.com/knadh/koanf/v2 v2.4.1 // indirect
 	github.com/mattn/go-colorable v0.1.16 // indirect
 	github.com/mattn/go-isatty v0.0.24 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
