@@ -42,8 +42,8 @@ github.com/google/flatbuffers v25.12.19+incompatible/go.mod h1:1AeVuKshWv4vARoZa
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/goretk/gore v0.14.7 h1:3y1PN4QswLp6yBtym3G2Km7/l4cSSRXZA8FHWYPPHxQ=
-github.com/goretk/gore v0.14.7/go.mod h1:6lFJE8uZD0+Bnq9Tbfpcmbx4PdPUkg2aKIEn4BHyJbY=
+github.com/goretk/gore v0.14.8 h1:o2N5gzkHIImhv5OnO9oa6ZouXpvVC/FIUIKrpvvbNLw=
+github.com/goretk/gore v0.14.8/go.mod h1:6lFJE8uZD0+Bnq9Tbfpcmbx4PdPUkg2aKIEn4BHyJbY=
 github.com/hamba/avro/v2 v2.31.0 h1:wv3nmua7lCEIwWsb6vqsTS3pXktTxcKg5eoyNu0VhrU=
 github.com/hamba/avro/v2 v2.31.0/go.mod h1:t6lJYAGE5Mswfn17zjtyQsssRQgnqO6TXLBCHHWRqrw=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
