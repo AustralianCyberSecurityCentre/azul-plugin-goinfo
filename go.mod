@@ -6,7 +6,7 @@ go 1.27.3
 
 require (
 	github.com/AustralianCyberSecurityCentre/azul-bedrock/v13 v13.0.86
-	github.com/goretk/gore v0.14.7
+	github.com/goretk/gore v0.14.8
 )
 
 require (
